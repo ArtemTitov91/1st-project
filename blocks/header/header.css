@@ -1,0 +1,14 @@
+.header{
+    min-height: 600px;
+    max-height: 756px;
+    position: relative;
+    margin: 0;
+
+
+}
+.header_flex {
+    justify-content: space-between;
+}
+.header_margin{
+    margin-left: 64px;
+}

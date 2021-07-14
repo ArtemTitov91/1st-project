@@ -1,0 +1,6 @@
+@import url(../blocks/description/two-columns.css);
+@import url(../blocks/description/__brief/two-columns__brief.css);
+@import url(../blocks/description/__main-text/two-columns__main-text.css);
+@import url(../blocks/description/__paragraph-text/two-columns__paragraph-text.css);
+@import url(../blocks/description/__write/two-columns__write.css);
+@import url(../blocks/description/__paragraph/two-colimns__paragraph.css);

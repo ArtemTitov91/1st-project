@@ -1,0 +1,31 @@
+@import url(../Styles/normalize.css);
+@import url(../pages/header.css);
+@import url(../pages/description.css);
+@import url(../pages/techniques.css);
+@import url(../pages/digits.css);
+@import url(../pages/kaufman.css);
+@import url(../pages/resources.css);
+@import url(../pages/footer.css);
+@import url(../pages/video.css);
+@import url(../pages/feynman.css);
+@import url(../pages/khan.css);
+
+.page{    
+    min-width: 1100px;
+    max-width: 1600px;
+    font-family: "Inter", "Arial", "sans-serif";
+}
+
+.flex{
+    display: flex;
+}
+/* div{
+    border: 1px solid red;
+} */
+.flex_column{
+    flex-direction: column;
+}
+
+.main_width{
+    width: 80%;   
+}

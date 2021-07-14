@@ -1,0 +1,10 @@
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/techniques/section-title/section-title.css);
+@import url(../blocks/techniques/section-suptitle/section-suptitle.css);
+@import url(../blocks/techniques/cards/cards.css);
+@import url(../blocks/techniques/cards/__item/cards__item.css);
+@import url(../blocks/techniques/cards/__image/cards__image.css);
+@import url(../blocks/techniques/cards/__title/cards__title.css);
+@import url(../blocks/techniques/cards/_descreption/cards_descreption.css);
+
+

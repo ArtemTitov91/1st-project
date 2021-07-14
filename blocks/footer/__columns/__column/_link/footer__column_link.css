@@ -1,0 +1,8 @@
+.footer__column_link{
+    margin: 16px;
+    color: white;
+    }
+
+.footer__column_link:hover{
+    opacity: 0.5;
+}    

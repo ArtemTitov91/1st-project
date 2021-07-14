@@ -1,0 +1,9 @@
+.header__subtitle_link{
+    line-height: 25px;
+    font-size: 18px;
+    font-style: normal;
+    color: #2f80ed;
+}
+.header__subtitle_link:hover{
+    opacity: 0.5;
+}

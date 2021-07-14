@@ -1,0 +1,8 @@
+.cards{
+    width: 920px;
+    min-height: 1000px;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}

@@ -1,0 +1,6 @@
+.iframe{
+    width: 1150px;
+    min-height: 320px;
+    margin: 50px auto 0;
+    justify-content: space-between;
+}
